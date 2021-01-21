@@ -1,6 +1,6 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Jogo da memória!
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de Super Mario! 
+Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo da memória com a temática de POkemon! 
 
 ### Os requisitos são:
 
